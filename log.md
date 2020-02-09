@@ -26,3 +26,14 @@
 
 **Link(s) to work**
 1. https://www.freecodecamp.org/fcc89246dcc-e918-423b-a20b-3fec25d1bd27
+
+### Day 4: Feb 8th 2020, Sat
+
+**Today's Progress**: progressing through visual web design challenges on FCC. tweeted. studying color theory very briefly. wrote my first pen on codepen.com for the lines challenge this week. simple but satisfying.
+
+**Thoughts** coding late again, tired and less focussed. hence wondering over to codepen. 
+
+**Link(s) to work**
+1. https://www.freecodecamp.org/fcc89246dcc-e918-423b-a20b-3fec25d1bd27
+2. https://codepen.io/feedthebees/full/QWbwBwE
+
