@@ -20,7 +20,7 @@
 
 ### Day 3: Feb 7th 2020, Fri
 
-**Today's Progress**: 1/3 of the visual web design challenges on FCC. progress tweeted
+**Today's Progress**: 1/3 of the applied visual design challenges on FCC. progress tweeted
 
 **Thoughts** left coding to later in the day and was less alert/productive during my hour
 
@@ -29,9 +29,19 @@
 
 ### Day 4: Feb 8th 2020, Sat
 
-**Today's Progress**: progressing through visual web design challenges on FCC. tweeted. studying color theory very briefly. wrote my first pen on codepen.com for the lines challenge this week. simple but satisfying.
+**Today's Progress**: progressing through applied visual design challenges on FCC. tweeted. studying color theory very briefly. wrote my first pen on codepen.com for the lines challenge this week. simple but satisfying.
 
 **Thoughts** coding late again, tired and less focussed. hence wondering over to codepen. GOAL to code early tomorrow and complete the web design coursework. 
+
+**Link(s) to work**
+1. https://www.freecodecamp.org/fcc89246dcc-e918-423b-a20b-3fec25d1bd27
+2. https://codepen.io/feedthebees/full/QWbwBwE
+
+### Day 5: Feb 9th 2020, Sun
+
+**Today's Progress**: progressing through applied visual design challenges on FCC. tweeted. focussed on graphic design and began the animation, lots more animation to cover tomorrow. embellished my code pen with box shadows, gradient backgrounds and inserted a link to my twitter profile. 
+
+**Thoughts** coding late again, its tough to stick to coding on the weekends when fammily is around. have to wait til kids are in bed and then give up my down time to code instead of tv/games. but I'm glad I stuck to my commitment. 
 
 **Link(s) to work**
 1. https://www.freecodecamp.org/fcc89246dcc-e918-423b-a20b-3fec25d1bd27
