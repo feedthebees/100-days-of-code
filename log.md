@@ -47,3 +47,12 @@
 1. https://www.freecodecamp.org/fcc89246dcc-e918-423b-a20b-3fec25d1bd27
 2. https://codepen.io/feedthebees/full/QWbwBwE
 
+### Day 6: Feb 10th 2020, Mon
+
+**Today's Progress**: progressing through applied visual design challenges on FCC. tweeted. learning more animation techniques with CSS. the pace is fast since its drip feeding so Im taking my time and tweaked some FCC code over on codepen which was a good opportunity to learn code doesnt copy and paste well! helps me go over and make sure I understand it and find what makes it work.  
+
+**Thoughts** feeling tired and less excited about coding but I Always enjoy it once I get going so I am glad for the accountability. 
+
+**Link(s) to work**
+1. https://www.freecodecamp.org/fcc89246dcc-e918-423b-a20b-3fec25d1bd27
+2. https://codepen.io/feedthebees/full/poJJLde
