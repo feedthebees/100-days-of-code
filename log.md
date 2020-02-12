@@ -56,3 +56,12 @@
 **Link(s) to work**
 1. https://www.freecodecamp.org/fcc89246dcc-e918-423b-a20b-3fec25d1bd27
 2. https://codepen.io/feedthebees/full/poJJLde
+
+### Day 7: 2/11/20
+
+**Today's Progress**: finished the visual design coursework and finished almost 1/2 of the accessibility coursework. this is simpler and is retracing some HTML5 I already know but explaining how and why it helps to make the code semantic and accessible with disabilites such as blind or deaf readers.   
+
+**Thoughts** Definitely a good change of pace. CSS was becoming very intense and mind numbing. feels good to recap and solidify familiar languages. 
+
+**Link(s) to work**
+1. https://www.freecodecamp.org/fcc89246dcc-e918-423b-a20b-3fec25d1bd27
