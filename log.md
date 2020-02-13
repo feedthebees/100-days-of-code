@@ -65,3 +65,12 @@
 
 **Link(s) to work**
 1. https://www.freecodecamp.org/fcc89246dcc-e918-423b-a20b-3fec25d1bd27
+
+### Day 8: 2/12/20
+
+**Today's Progress**: its been a long day but i took time to code on FCC accessibility challenges.   
+
+**Thoughts**not my best day but I stuck to it...
+
+**Link(s) to work**
+1. https://www.freecodecamp.org/fcc89246dcc-e918-423b-a20b-3fec25d1bd27
