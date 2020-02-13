@@ -74,3 +74,12 @@
 
 **Link(s) to work**
 1. https://www.freecodecamp.org/fcc89246dcc-e918-423b-a20b-3fec25d1bd27
+
+### Day 9: 2/13/20
+
+**Today's Progress**: completed the accessibility challenges on FCC and a completed a crash course in responsive web design principles.   
+
+**Thoughts** looking forward to the CSS grid and flexbox. ready for the challenges to be challenging!
+
+**Link(s) to work**
+1. https://www.freecodecamp.org/fcc89246dcc-e918-423b-a20b-3fec25d1bd27
