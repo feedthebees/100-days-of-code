@@ -7,7 +7,7 @@
 **Thoughts** I've started FCC twice before but this time I want to stick with it and complete the certification without getting bored/distracted and dropping out.
 
 **Link(s) to work**
-1. https://www.freecodecamp.org/fcc89246dcc-e918-423b-a20b-3fec25d1bd27
+1. https://www.freecodecamp.org/feed-the-bees
 
 ### Day 2: Feb 6th 2020, Thurs
 
@@ -16,7 +16,7 @@
 **Thoughts** I've done the minimum 1hr but need a break for food/headache and hope to complete more today. 
 
 **Link(s) to work**
-1. https://www.freecodecamp.org/fcc89246dcc-e918-423b-a20b-3fec25d1bd27
+1. https://www.freecodecamp.org/feed-the-bees
 
 ### Day 3: Feb 7th 2020, Fri
 
@@ -25,7 +25,7 @@
 **Thoughts** left coding to later in the day and was less alert/productive during my hour
 
 **Link(s) to work**
-1. https://www.freecodecamp.org/fcc89246dcc-e918-423b-a20b-3fec25d1bd27
+1. https://www.freecodecamp.org/feed-the-bees
 
 ### Day 4: Feb 8th 2020, Sat
 
@@ -34,7 +34,7 @@
 **Thoughts** coding late again, tired and less focussed. hence wondering over to codepen. GOAL to code early tomorrow and complete the web design coursework. 
 
 **Link(s) to work**
-1. https://www.freecodecamp.org/fcc89246dcc-e918-423b-a20b-3fec25d1bd27
+1. https://www.freecodecamp.org/feed-the-bees
 2. https://codepen.io/feedthebees/full/QWbwBwE
 
 ### Day 5: Feb 9th 2020, Sun
@@ -44,7 +44,7 @@
 **Thoughts** coding late again, its tough to stick to coding on the weekends when fammily is around. have to wait til kids are in bed and then give up my down time to code instead of tv/games. but I'm glad I stuck to my commitment. 
 
 **Link(s) to work**
-1. https://www.freecodecamp.org/fcc89246dcc-e918-423b-a20b-3fec25d1bd27
+1. https://www.freecodecamp.org/feed-the-bees
 2. https://codepen.io/feedthebees/full/QWbwBwE
 
 ### Day 6: Feb 10th 2020, Mon
@@ -54,7 +54,7 @@
 **Thoughts** feeling tired and less excited about coding but I Always enjoy it once I get going so I am glad for the accountability. 
 
 **Link(s) to work**
-1. https://www.freecodecamp.org/fcc89246dcc-e918-423b-a20b-3fec25d1bd27
+1. https://www.freecodecamp.org/feed-the-bees
 2. https://codepen.io/feedthebees/full/poJJLde
 
 ### Day 7: 2/11/20
@@ -64,7 +64,7 @@
 **Thoughts** Definitely a good change of pace. CSS was becoming very intense and mind numbing. feels good to recap and solidify familiar languages. 
 
 **Link(s) to work**
-1. https://www.freecodecamp.org/fcc89246dcc-e918-423b-a20b-3fec25d1bd27
+1. https://www.freecodecamp.org/feed-the-bees
 
 ### Day 8: 2/12/20
 
@@ -73,7 +73,7 @@
 **Thoughts**not my best day but I stuck to it...
 
 **Link(s) to work**
-1. https://www.freecodecamp.org/fcc89246dcc-e918-423b-a20b-3fec25d1bd27
+1. https://www.freecodecamp.org/feed-the-bees
 
 ### Day 9: 2/13/20
 
@@ -82,4 +82,4 @@
 **Thoughts** looking forward to the CSS grid and flexbox. ready for the challenges to be challenging!
 
 **Link(s) to work**
-1. https://www.freecodecamp.org/fcc89246dcc-e918-423b-a20b-3fec25d1bd27
+1. https://www.freecodecamp.org/feed-the-bees
