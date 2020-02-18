@@ -83,3 +83,12 @@
 
 **Link(s) to work**
 1. https://www.freecodecamp.org/feed-the-bees
+
+### Day 10: 2/17/20
+
+**Today's Progress**: completed the intro to CSS flexbox challenges on FCC. I lost 3 days to a busy weekend with valentines and family outings but family first! 
+
+**Thoughts** flex was easier than I had thought. hopeully grid is easy to use too. 
+
+**Link(s) to work**
+1. https://www.freecodecamp.org/feed-the-bees
