@@ -92,3 +92,13 @@
 
 **Link(s) to work**
 1. https://www.freecodecamp.org/feed-the-bees
+
+### Day 13: 2/20/20
+
+**Today's Progress**: Ive forgotten to log everything! well today I was working on my tribute page. picked Baby Yoda and passed 100% of the user stories but the design is basic. tomorrow I'll work on the style of the page.  
+
+**Thoughts** Surprised myself again with how easy it was to get 100%.  I was expecting it to take a lot longer.  
+
+**Link(s) to work**
+1. https://www.freecodecamp.org/feed-the-bees
+https://codepen.io/feedthebees/full/WNvGqEJ
